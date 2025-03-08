@@ -1,0 +1,1 @@
+In excel, if we want to lock the cell, we should write like this => $[cell_column_name]$[cell_row_number]
